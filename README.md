@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요~!반갑습니다. 프로필의 Notion 링크를 방문해 주시길 바랍니다. 👋
 
 <!--
 **jinhyunseung/jinhyunseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
