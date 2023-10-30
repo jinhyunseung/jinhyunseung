@@ -1,5 +1,6 @@
-### 안녕하세요~!반갑습니다. 프로필의 Notion 링크를 방문해 주시길 바랍니다. 👋
-
+### 안녕하세요~!반갑습니다. 하단의 링크를 방문해 주시길 바랍니다. 👋
+# Notion (Cloud) : https://jinhyunseung.notion.site/BTC-25cd03c3bb1043a99f7fc4391c67acd3
+# Blog : https://crongblog.tistory.com/
 <!--
 **jinhyunseung/jinhyunseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
